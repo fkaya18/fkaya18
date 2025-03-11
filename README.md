@@ -3,8 +3,7 @@
 # Hi there! 👋 I'm Furkan Kaya  
 
 I'm a **Data Analyst** with experience in **SQL, Python, and R**, specializing in **data analysis and visualization**. I enjoy working with data to uncover insights and drive decision-making.  
-
-🔹 Skilled in **SQL, Pandas, Seaborn, Power BI, and Excel**  
+ 
 🔹 Experienced in **A/B Testing, hypothesis testing, data analysis and data visualization**  
 🔹 Passionate about **turning data into actionable insights**  
 
